@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 60px 0;
+}
+input{
+    margin: 10px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+label{
+    margin: 0 15px;
+}
+button{
+    padding: 5px 15px;
+    margin: 10px 0;
+}
+.outline{
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-image: linear-gradient(rgba(16, 0, 243, 0.718) ,rgba(30, 40, 114, 0.288));
+}
